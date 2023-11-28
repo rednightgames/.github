@@ -14,8 +14,8 @@
 |---------------|------------------------|---------------|----------------|
 | **main**      | Production             | **dev**       |                |
 | **dev**       | Canary                 | **main**      |                |
-| **feature-*** | Features               | **dev**       | *feature-auth* |
-| **hotfix-***  | Hotfixes in production | **main**      | *hotfix-auth*  |
+| **feature/*** | Features               | **dev**       | *feature/auth* |
+| **hotfix/***  | Hotfixes in production | **main**      | *hotfix/auth*  |
 
 ![workflow](https://github.com/rednightgames/.github/assets/152066369/1c74b65f-c41f-49da-8451-c620df85a748)
 -----
